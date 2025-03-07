@@ -60,6 +60,10 @@ def tan(float_):
     return math.tan(float_)
 
 
+
+def kekcheburek(numpads):
+    print("kekekek")
+
 def ln(float_):
     return math.log(float_)
 
